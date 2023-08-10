@@ -1,0 +1,78 @@
+h1{
+
+text-align: center;
+font-size: 100px;
+color:black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+hr{
+
+width: 60%;
+height: 1px;
+background: black;
+
+}
+
+.paragrafo{
+
+width: 50%;
+text-align: justify;
+display:block;
+margin:auto;
+font-size:20px;
+
+}
+
+img{
+
+width:528px;
+
+}
+
+#caixa01{
+
+width:1060px;
+margin:auto;
+
+}
+
+#letreiro{
+
+display:block;
+margin:auto;
+font-size:20px;
+font-weight: hoid;
+color: black;
+
+}
+
+#videozin{
+
+width: 50%;
+display:block;
+margin:auto;
+
+}
+
+body{
+
+background:url(/images/Barbie\ Logo\ Wallpapers\ \ \ Top\ Free\ Barbie\ Logo\ Backgrounds.jpg);
+background-size: cover;
+
+}
+
+@font-face{
+
+font-family: barbie;
+src: url("Barbie.otf");    
+
+}
+
+h1{
+
+font-family: barbie;
+font-size: 100px;  
+    
+}
